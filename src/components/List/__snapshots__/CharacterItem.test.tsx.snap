@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CharacterItem Component render a CharacterItem 1`] = `
+<DocumentFragment>
+  <figure>
+    <img
+      alt="josh"
+      src="imageurl"
+    />
+    <figcaption>
+      josh
+    </figcaption>
+  </figure>
+</DocumentFragment>
+`;
